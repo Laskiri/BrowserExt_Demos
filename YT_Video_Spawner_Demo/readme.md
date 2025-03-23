@@ -12,6 +12,12 @@ Denne simple browserudvidelse giver dig mulighed for at indsætte en YouTube URL
 3. Indsæt en gyldig YouTube URL (f.eks. `https://www.youtube.com/watch?v=dQw4w9WgXcQ`).
 4. Klik på knappen, og videoen vil dukke op på den aktive side.
 
+## Sådan åbner og tester du udvidelsen i Chrome
+1. Åbn Chrome og gå til `chrome://extensions/`.
+2. Aktivér "Udviklertilstand" i øverste højre hjørne.
+3. Klik på knappen "Indlæs upakket" og vælg mappen, hvor udvidelsen er placeret.
+4. Udvidelsen vil nu blive tilføjet til din browser, og du kan teste den ved at klikke på udvidelsesikonet.
+
 ## Opgaver
 Her er to opgaver, du kan arbejde på for at udvide funktionaliteten:
 
